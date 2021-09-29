@@ -10,3 +10,6 @@
 
 ## 여러 자료구조
 - [3865 - 학회원](https://github.com/LemonDouble/BOJ/blob/main/Problems/3865%20-%20%ED%95%99%ED%9A%8C%EC%9B%90.md)
+
+## 백트래킹
+- [2529 - 부등호](https://github.com/LemonDouble/BOJ/blob/main/Problems/2529%20-%20%EB%B6%80%EB%93%B1%ED%98%B8%20.md)
