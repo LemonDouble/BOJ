@@ -13,3 +13,6 @@
 
 ## 백트래킹
 - [2529 - 부등호](https://github.com/LemonDouble/BOJ/blob/main/Problems/2529%20-%20%EB%B6%80%EB%93%B1%ED%98%B8%20.md)
+
+## 수학
+- [1011 - Fly me to the Alpha Centauri](https://github.com/LemonDouble/BOJ/blob/main/Problems/1011%20-%20Fly%20me%20to%20the%20Alpha%20Centauri.md)
